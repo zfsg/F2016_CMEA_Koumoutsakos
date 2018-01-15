@@ -9,7 +9,7 @@ The collection comprises summaries in german, in english, sometimes including a 
 
 0. If you're new to git read an [introduction](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics).
 
-1. Contact [me](mailto:muellegi@student.ethz.ch) to get access to one of the [available summaries](ListOfSummaries.md).
+1. Contact [me](mailto:muellegi@student.ethz.ch) to get access to one of the [available summaries](https://gitlab.ethz.ch/ZFSG/Headerfiles/blob/master/ListOfSummaries.md).
 
 2. Choose a local folder to contain your summaries.
 
@@ -23,4 +23,4 @@ The collection comprises summaries in german, in english, sometimes including a 
 
 5. Create your own branch, do your adaptation, push when you're finished or to back up.
 
-6. Contact [me](mailto:muellegi@student.ethz.ch) if you need help with git or latex or life in general (maybe not).
+6. Contact [me](mailto:muellegi@student.ethz.ch) if you need help with git or latex or life in general.
